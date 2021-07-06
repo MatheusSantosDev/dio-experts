@@ -1,0 +1,3 @@
+rootProject.name = 'product-catalog'
+include 'shopping-cart'
+
