@@ -6,6 +6,8 @@ Projeto em Java com Spring Cloud | arquitetura de software baseada em microsserv
 * https://www.elastic.co/pt/downloads/elasticsearch
 * Database
 * https://redis.io/download
+* Java:
+* JDK 8
 
 # configurações padrão:
 * Server config http:localhost/8888
